@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/grocernote/static/css/main.dbd79a53.css",
+    "main.js": "/grocernote/static/js/main.4616e70e.js",
+    "index.html": "/grocernote/index.html",
+    "main.dbd79a53.css.map": "/grocernote/static/css/main.dbd79a53.css.map",
+    "main.4616e70e.js.map": "/grocernote/static/js/main.4616e70e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dbd79a53.css",
+    "static/js/main.4616e70e.js"
+  ]
+}
